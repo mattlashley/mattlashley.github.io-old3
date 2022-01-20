@@ -53,3 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# points to a forked version of minimal-mistakes
+remote_theme: mattlashley/minimal-mistakes
